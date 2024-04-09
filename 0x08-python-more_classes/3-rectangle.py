@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# by OLADAPO ODEDEYI : dapoodedeyi@yahoo.com
+# by UGWU BONIFACE OTU : ugwbonifaceotu1998@gmail.com
 """A class that defines a rectangle based on 1-rectangle.py"""
 
 
